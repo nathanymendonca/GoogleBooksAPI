@@ -1,0 +1,25 @@
+body {
+    /* background-color: #76a9e0; */
+    background-image: url("../img/bg-book2.jpg");
+    background-color: #e9b5b5;
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .center {
+    margin: auto;
+    margin-top: 200px;
+  }
+
+  #header {
+    font-family: 'Righteous', sans-serif;
+    font-size: 3rem;
+  }
+  
+  h2 {
+    font-family: 'Righteous', sans-serif;
+  }
